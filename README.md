@@ -11,8 +11,8 @@ Frame shapeshifting someone works and is shown to everyone.
 -
 How to install? (Worked on windows steam)
 Get extreme injector V3 https://github.com/master131/extremeinjector
-Launch extreme injector
-Launch among us
+Launch extreme injector.
+Launch among us.
 Select the downloaded .dll file
 Select among us
 *Important you must be in the home title screen in among us or you will crash*
