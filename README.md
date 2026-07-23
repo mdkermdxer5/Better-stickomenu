@@ -1,3 +1,29 @@
+What i added:
+<img width="754" height="556" alt="image" src="https://github.com/user-attachments/assets/21370cf8-687a-4fe5-bc3f-7100594dbc3a" />
+<img width="748" height="548" alt="image" src="https://github.com/user-attachments/assets/87d06001-fa64-43ee-8600-02b0c8bf53ce" />
+Important:
+Do not use synchronized scanning. It will ban you!
+Do not use vanish target
+Do not use rainbow shapeshift.
+The rest works
+Best part:
+Frame shapeshifting someone works and is shown to everyone.
+-
+How to install? (Worked on windows steam)
+Get extreme injector V3 https://github.com/master131/extremeinjector
+Launch extreme injector
+Launch among us
+Select the downloaded .dll file
+Select among us
+*Important you must be in the home title screen in among us or you will crash*
+Inject it
+Create a lobby
+Press delete and it should apear.
+
+
+
+
+
 <p align="center">
    <img src="SickoBanner.png">
   </p>
